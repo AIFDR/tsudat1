@@ -1,0 +1,21 @@
+Multiple point select.  CTRL key?  Callback each time point added?
+
+------------------------------------------------
+
+Scale objects drawn with zoom level.
+
+One that takes size as a scalar could also take a dict:
+{0: <size0>,
+ 1: <size1>,
+ ...
+ 7: <size7>}
+
+This could work for points and polygons.
+
+------------------------------------------------
+
+Get double-buffering working.
+
+------------------------------------------------
+
+
